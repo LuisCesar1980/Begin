@@ -1,0 +1,9 @@
+c:\users\leviatã\documents\visual studio 2015\Projects\Calculadora_2\Calculadora_2\bin\Debug\Calculadora_2.exe.config
+c:\users\leviatã\documents\visual studio 2015\Projects\Calculadora_2\Calculadora_2\bin\Debug\Calculadora_2.exe
+c:\users\leviatã\documents\visual studio 2015\Projects\Calculadora_2\Calculadora_2\bin\Debug\Calculadora_2.pdb
+c:\users\leviatã\documents\visual studio 2015\Projects\Calculadora_2\Calculadora_2\obj\Debug\Calculadora_2.csprojResolveAssemblyReference.cache
+c:\users\leviatã\documents\visual studio 2015\Projects\Calculadora_2\Calculadora_2\obj\Debug\Calculadora_2.Form1.resources
+c:\users\leviatã\documents\visual studio 2015\Projects\Calculadora_2\Calculadora_2\obj\Debug\Calculadora_2.Properties.Resources.resources
+c:\users\leviatã\documents\visual studio 2015\Projects\Calculadora_2\Calculadora_2\obj\Debug\Calculadora_2.csproj.GenerateResource.Cache
+c:\users\leviatã\documents\visual studio 2015\Projects\Calculadora_2\Calculadora_2\obj\Debug\Calculadora_2.exe
+c:\users\leviatã\documents\visual studio 2015\Projects\Calculadora_2\Calculadora_2\obj\Debug\Calculadora_2.pdb
