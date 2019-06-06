@@ -1,0 +1,6 @@
+c:\users\leviatã\documents\visual studio 2015\Projects\CalculoComWhile\CalculoComWhile\bin\Debug\CalculoComWhile.exe.config
+c:\users\leviatã\documents\visual studio 2015\Projects\CalculoComWhile\CalculoComWhile\bin\Debug\CalculoComWhile.exe
+c:\users\leviatã\documents\visual studio 2015\Projects\CalculoComWhile\CalculoComWhile\bin\Debug\CalculoComWhile.pdb
+c:\users\leviatã\documents\visual studio 2015\Projects\CalculoComWhile\CalculoComWhile\obj\Debug\CalculoComWhile.csprojResolveAssemblyReference.cache
+c:\users\leviatã\documents\visual studio 2015\Projects\CalculoComWhile\CalculoComWhile\obj\Debug\CalculoComWhile.exe
+c:\users\leviatã\documents\visual studio 2015\Projects\CalculoComWhile\CalculoComWhile\obj\Debug\CalculoComWhile.pdb
